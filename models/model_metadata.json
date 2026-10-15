@@ -1,0 +1,15 @@
+{
+    "project": "Land vs Water Classification",
+    "selected_model": "Decision Tree",
+    "input_features": [
+        "latitude",
+        "longitude"
+    ],
+    "labels": {
+        "0": "Water",
+        "1": "Land"
+    },
+    "original_test_accuracy": 0.9881,
+    "geographic_reference_accuracy": 0.98,
+    "geographic_reference_f1": 0.9643
+}
